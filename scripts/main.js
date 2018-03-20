@@ -4,7 +4,7 @@ let div = document.createElement('div');
 div.className = "panel";
 
 const container = document.querySelector('#container');
-const button = document.querySelector("#button");
+const button = document.querySelector("#button button");
 
 function init() {
   addEventListenerToButton();
