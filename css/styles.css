@@ -1,0 +1,24 @@
+h1 {
+  text-align: center;
+}
+
+#button {
+  text-align: center;
+  padding-bottom: 20px;
+}
+
+#container {
+  margin: auto;
+  display: grid;
+  width: 1280px;
+  height: 720px;
+  border: 1px solid black;
+}
+
+.panel {
+  display: grid;
+  border: 1px solid #f3f3f3;
+  background: #3a3a3a;
+  height: auto;
+  width: auto;
+}
